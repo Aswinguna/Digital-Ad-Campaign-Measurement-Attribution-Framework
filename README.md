@@ -257,22 +257,6 @@ outputs/
 
 ---
 
-## 💡 Interview Talking Points
-
-**On the data**: "I simulated 210,000 ad events covering the full funnel from impression to conversion, with realistic distributions for CTR (~2%) and CVR (~5%) consistent with industry benchmarks."
-
-**On modeling**: "I trained three model families — tree-based, ensemble, and neural — tracking every run with MLflow. XGBoost outperformed with ROC-AUC above 0.91, which I attribute to its ability to handle the feature interactions between recency, frequency, and prior engagement."
-
-**On attribution**: "I implemented four attribution models and found that contextual targeting is systematically undervalued under last-touch — it contributes to journeys as an assist but rarely as the final click. Linear and time-decay models restore appropriate credit."
-
-**On A/B testing**: "I used a pre/post design with campaign day 45 as the split point. The treatment group (optimised targeting) showed statistically significant improvements in both CTR (+25%) and CVR (+30%), both p < 0.01."
-
-**On budget optimisation**: "By weighting budget allocation proportionally to predicted ROAS per channel — rather than splitting evenly — I projected a 12% revenue uplift on a $50K budget, from ~$X to ~$X×1.12."
-
-**On SHAP**: "I used TreeExplainer for XGBoost and RF — near-exact Shapley values in milliseconds. The top drivers were prior_clicks, recency_days, and context_score, which map directly to the signals Criteo uses for retargeting."
-
----
-
 ## 📄 License
 
 MIT License – feel free to use and extend.
