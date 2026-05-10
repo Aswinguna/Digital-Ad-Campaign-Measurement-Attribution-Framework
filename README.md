@@ -1,6 +1,6 @@
 # Digital Ad Campaign Measurement & Attribution Framework
 
-> **End-to-end pipeline** for measuring, attributing, and optimising digital advertising performance across 200K+ ad event records — built to mirror real-world challenges at performance marketing companies like Criteo.
+> **End-to-end pipeline** for measuring, attributing, and optimising digital advertising performance across 200K+ ad event records — built to mirror real-world challenges at performance marketing companies.
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://python.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0-orange)](https://xgboost.readthedocs.io)
