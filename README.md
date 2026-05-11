@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 What This Project Does
+## What This Project Does
 
 | Capability | Detail |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 digital-ad-attribution/
@@ -70,7 +70,7 @@ digital-ad-attribution/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone & install
 
@@ -128,7 +128,7 @@ sqlite> .read sql/queries.sql
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 ### Model Performance (test set)
 
@@ -206,7 +206,7 @@ Hyperparameters: 400 trees, max_depth=6, learning_rate=0.05, subsample=0.8.
 
 ---
 
-## 📈 Dashboard Tabs
+## Dashboard Tabs
 
 | Tab | Content |
 |---|---|
@@ -218,7 +218,7 @@ Hyperparameters: 400 trees, max_depth=6, learning_rate=0.05, subsample=0.8.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Library |
 |---|---|
@@ -233,7 +233,7 @@ Hyperparameters: 400 trees, max_depth=6, learning_rate=0.05, subsample=0.8.
 
 ---
 
-## 📁 Output
+## Output
 
 <img width="1895" height="922" alt="image" src="https://github.com/user-attachments/assets/466a1517-37c3-4eff-a0da-ad208d7550ae" />
 
