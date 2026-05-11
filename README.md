@@ -233,7 +233,6 @@ Hyperparameters: 400 trees, max_depth=6, learning_rate=0.05, subsample=0.8.
 
 ---
 
-## 📁 Outputs
 ## 📁 Output
 
 <img width="1895" height="922" alt="image" src="https://github.com/user-attachments/assets/466a1517-37c3-4eff-a0da-ad208d7550ae" />
